@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>84648408_708593216342292_3418211028884783104_n (1).jpg</filename>
+	<path>C:\Users\user\Downloads\others\object_detection\images\train\84648408_708593216342292_3418211028884783104_n (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>resistor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>185</ymin>
+			<xmax>392</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>resistor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>170</ymin>
+			<xmax>514</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>
